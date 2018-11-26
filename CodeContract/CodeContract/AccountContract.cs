@@ -31,7 +31,7 @@ namespace CodeContract
             Contract.Requires(amount > 0 && amount < cap);
             var temp = balance;
             balance += amount;
-            Contract.Ensures(temp > balance && balance < cap);
+            Contract.Ensures(temp < balance && balance < cap);
         }
 
         public static void Withdraw(double amount)

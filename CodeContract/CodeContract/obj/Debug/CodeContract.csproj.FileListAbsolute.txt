@@ -1,0 +1,13 @@
+C:\Users\Mart_\source\repos\CodeContract\CodeContract\obj\Debug\CodeContract.csprojAssemblyReference.cache
+C:\Users\Mart_\source\repos\CodeContract\CodeContract\obj\Debug\CodeContract.csproj.CoreCompileInputs.cache
+C:\Users\Mart_\source\repos\CodeContract\CodeContract\bin\Debug\CodeContracts\CodeContract.Contracts.dll
+C:\Users\Mart_\source\repos\CodeContract\CodeContract\bin\Debug\CodeContracts\CodeContract.Contracts.pdb
+C:\Users\Mart_\source\repos\CodeContract\CodeContract\bin\Debug\CodeContract.exe.config
+C:\Users\Mart_\source\repos\CodeContract\CodeContract\bin\Debug\CodeContract.exe
+C:\Users\Mart_\source\repos\CodeContract\CodeContract\bin\Debug\CodeContract.pdb
+C:\Users\Mart_\source\repos\CodeContract\CodeContract\obj\Debug\Decl\CodeContract.exe
+C:\Users\Mart_\source\repos\CodeContract\CodeContract\obj\Debug\Decl\CodeContract.pdb
+C:\Users\Mart_\source\repos\CodeContract\CodeContract\obj\Debug\CodeContractccrefgen.rsp
+C:\Users\Mart_\source\repos\CodeContract\CodeContract\obj\Debug\CodeContract.exe
+C:\Users\Mart_\source\repos\CodeContract\CodeContract\obj\Debug\CodeContract.pdb
+C:\Users\Mart_\source\repos\CodeContract\CodeContract\obj\Debug\CodeContractAnalysisRun.log

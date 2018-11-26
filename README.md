@@ -40,3 +40,8 @@ var temp = balance;
 balance += amount;
 Contract.Ensures(temp < balance && balance < cap);
 ```
+
+
+
+
+Code can be found [here](https://github.com/MartinH5/CodeContracts/blob/master/CodeContract/CodeContract/AccountContract.cs) 

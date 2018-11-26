@@ -39,7 +39,7 @@ namespace CodeContract
             Contract.Requires(amount <= balance && 0 < amount);
             var temp = balance;
             balance -= amount;
-            Contract.Ensures(balance < temp && balance < (cap * -1) && balance < 0);
+            Contract.Ensures(balance < temp &&  balance < 0);
         }
     }
 }
